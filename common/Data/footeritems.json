@@ -1,0 +1,27 @@
+[
+    {
+        "title": "Github",
+        "url": "https://www.github.com/krishrenjen",
+        "image": "/svgs/githublogo.svg"
+    },
+    {
+        "title": "LinkedIn",
+        "url": "https://www.linkedin.com/in/krishrenjen",
+        "image": "/svgs/linkedinlogo.svg"
+    },
+    {
+        "title": "Twitter",
+        "url": "https://www.twitter.com/krishrenjen",
+        "image": "/svgs/twitterlogo.svg"
+    },
+    {
+        "title": "Instagram",
+        "url": "https://www.instagram.com/krishrenjen",
+        "image": "/svgs/instagramlogo.svg"
+    },
+    {
+        "title": "Email (krish.renjen@gmail.com)",
+        "url": "mailto:krish.renjen@gmail.com",
+        "image": "/svgs/email.svg"
+    }
+]

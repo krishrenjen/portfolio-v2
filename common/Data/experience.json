@@ -1,0 +1,42 @@
+[
+    {
+        "title":"Website Design Member",
+        "company": "Code 4 Tomorrow",
+        "alt_titles": ["Website Developer", "Website Maintainer"],
+        "description":"Working as a remote volunteer\nMaintains, updates, and upgrades the Code 4 Tomorrow Website\nAttends weekly meetings",
+        "date": "July 2023 - Present",
+        "primaryHref": "https://www.code4tomorrow.org",
+        "links": [
+            {"text": "GitHub Repository", "href": "https://github.com/code4tomorrow/c4t-web"}
+        ],
+        "tags":[
+            {"title": "Volunteer"},
+            {"title": "Typescript", "type":"Language"},
+            {"title": "HTML5", "type":"Language"},
+            {"title": "Next.js", "type":"Tool"},
+            {"title": "React.js", "type":"Tool"},
+            {"title": "TailwindCSS", "type":"Tool"},
+            {"title": "Vercel", "type":"Tool"}            
+        ]
+    },
+    {
+        "title":"Chapter Founder",
+        "alt_titles": ["Volunteer Mentor", "Lesson Creator"],
+        "company": "CoderDojo",
+        "description":"Co-founded South Brunswick CoderDojo chapter\nTaught Python through text adventure games\nTaught Python through creating bots using discord.py\nTaught HTML/CSS through making websites based on student interests\n \nDiscontinued due to lack of venue",
+        "date": "September 2021 - December 2021",
+        "primaryHref": "https://sbdojo.github.io/about/",
+        "links": [
+            {"text": "Lessons", "href": "https://sbdojo.gitbook.io/sushi-cards/v/2021-2022/session-1/session-1-info"},
+            {"text": "Instagram", "href": "https://www.instagram.com/sb.coderdojo/"}
+        ],
+        "tags":[
+            {"title": "Volunteer"},
+            {"title": "Python", "type":"Language"},
+            {"title": "HTML5", "type":"Language"},
+            {"title": "CSS3", "type":"Language"},
+            {"title": "discord.py", "type":"Tool"},
+            {"title": "Replit", "type":"Tool"} 
+        ]
+    }
+]

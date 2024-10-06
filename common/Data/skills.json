@@ -1,0 +1,128 @@
+{
+    "languages": [
+      {
+        "title": "Java",
+        "description": "General, Android",
+        "image": "/skill_logos/javalogo.png"
+      },
+      {
+        "title": "Python",
+        "description": "General, Flask",
+        "image": "/skill_logos/pylogo.png"
+      },
+      {
+        "title": "JavaScript",
+        "description": "Web Development",
+        "image": "/skill_logos/javascriptlogo.png"
+      },
+      {
+        "title": "TypeScript",
+        "description": "React Development",
+        "image": "/skill_logos/typescriptlogo.png"
+      },
+      {
+        "title": "HTML5",
+        "description": "Website Design",
+        "image": "/skill_logos/htmllogo.png"
+      },
+      {
+        "title": "CSS3",
+        "description": "Website Design",
+        "image": "/skill_logos/css3logo.png"
+      },
+      {
+        "title": "LuaU",
+        "description": "Roblox",
+        "image": "/skill_logos/lualogo.png"
+      },
+      {
+        "title": "C#",
+        "description": "Unity",
+        "image": "/skill_logos/csharplogo.png"
+      },
+      {
+        "title": "C++",
+        "description": "General, Raylib",
+        "image": "/skill_logos/cpplogo.png"
+      }
+    ],
+    "frameworks": [
+      {
+        "title": "ReactJS",
+        "description": "Website Development",
+        "image": "/skill_logos/reactlogo.png"
+      },
+      {
+        "title": "NextJS",
+        "description": "With ReactJS",
+        "image": "/skill_logos/nextjslogo.svg"
+      },
+      {
+        "title": "Tailwind CSS",
+        "description": "With ReactJS",
+        "image": "/skill_logos/tailwindlogo.png"
+      },
+      {
+        "title": "Node.js",
+        "description": "General Use",
+        "image": "/skill_logos/nodejslogo.png"
+      },
+      {
+        "title": "Android",
+        "description": "Small Apps",
+        "image": "/skill_logos/androidlogo.png"
+      },
+      {
+        "title": "Flask",
+        "description": "Small APIs",
+        "image": "/skill_logos/flasklogo.png"
+      },
+      {
+        "title": "discord.py",
+        "description": "Personal Bots",
+        "image": "/skill_logos/discordpylogo.png"
+      },
+      {
+        "title": "discord.js",
+        "description": "School Projects",
+        "image": "/skill_logos/discordjslogo.png"
+      },
+      {
+        "title": "Firebase",
+        "description": "Realtime and Firestore",
+        "image": "/skill_logos/firebaselogo.png"
+      },
+      {
+        "title": "Unity",
+        "description": "2D, 3D, and VR Games",
+        "image": "/skill_logos/unitylogo.png"
+      },
+      {
+        "title": "Roblox Studio",
+        "description": "Passion Games",
+        "image": "/skill_logos/robloxstudiologo.png"
+      }
+    ],
+    "external": [
+      {
+        "title": "Notion",
+        "description": "Organization",
+        "image": "/skill_logos/notionlogo.png"
+      },
+      {
+        "title": "Google Drive",
+        "description": "Docs, Sheets, Slides, etc.",
+        "image": "/skill_logos/drivelogo.png"
+      },
+      {
+        "title": "Microsoft 365",
+        "description": "Word, Excel",
+        "image": "/skill_logos/officelogo.png"
+      },
+      {
+        "title": "Gitbook",
+        "description": "Creating Lessons",
+        "image": "/skill_logos/gitbooklogo.png"
+      }
+    ]
+  }

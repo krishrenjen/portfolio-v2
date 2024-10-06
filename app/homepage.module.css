@@ -1,0 +1,19 @@
+.hero {
+    position: relative;
+    background: #181716;
+    background-image: linear-gradient(to bottom, transparent, #181716), url("/mountain.jpg");
+    background-repeat: no-repeat;
+    background-size: cover; /* Adjust this based on your layout */
+}
+
+.hero::before {
+    content: "";
+    z-index: 0;
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background: inherit;
+    filter: grayscale(90%) blur(7px);
+}
