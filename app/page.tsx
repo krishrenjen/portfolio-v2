@@ -64,7 +64,7 @@ export default function Home() {
           <div className="flex gap-14 px-10 justify-center items-center py-10 flex-wrap">
             <div className="w-80 lg:w-96 h-fit px-7">
               <p className={TextSizes.XSMALL}>
-                Hey! I&apos;m Krish and I am a freshman senior at Rutgers University and an aspiring full stack developer. I made my start making games on Roblox, and have transitioned to web and software
+                Hey! I&apos;m Krish and I am a freshman at Rutgers University and an aspiring full stack developer. I made my start making games on Roblox, and have transitioned to web and software
                 development.
                 <br />
                 <br />
