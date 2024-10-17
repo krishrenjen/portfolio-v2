@@ -3,7 +3,7 @@
     background: #181716;
     background-image: linear-gradient(to bottom, transparent, #181716), url("/mountain.jpg");
     background-repeat: no-repeat;
-    background-size: cover; /* Adjust this based on your layout */
+    background-size: cover;
 }
 
 .hero::before {

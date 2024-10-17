@@ -1,8 +1,24 @@
 [
     {
+        "title":"SB Attendance App",
+        "type": "Website",
+        "description":"Created a NextJS website that allows students to scan a QR code to track their club and event attendance. It also allows club officers to create check in events, view all students who have checked in. They can also restrict login to students located at the school using IP and geolocation. They can also export data to a spreadsheet for easy viewing and logging. Students can view all their attendance for a specific club as well.",
+        "date": "MAY 2024",
+        "primaryHref": "https://github.com/krishrenjen/sbhs-club-attendance",
+        "links": [
+            {"text": "GitHub Repository", "href": "https://github.com/krishrenjen/sbhs-club-attendance"}
+        ],
+        "tags":[
+            {"title": "School"},
+            {"title": "TypeScript", "type":"Language"},
+            {"title": "NextJS", "type":"Tool"},
+            {"title": "PostgresSQL", "type":"Tool"},
+            {"title": "Prisma", "type":"Tool"}
+        ]
+    },
+    {
         "title":"Circlize App",
         "type": "Website",
-        "image": "/mountain.jpg",
         "description":"Final project for mobile application class\nAn Android app that allows users to create or join Circles, in which they can then post messages to the stream. Additionally, they can change their username, and profile pictures. Features a login and signup screen as well.\nConnected to Flask server through an API, which would then connect to the Firebase database to write and read data.",
         "date": "JUNE 2023",
         "primaryHref": "/noresource",
@@ -21,7 +37,6 @@
     {
         "title":"Weather App",
         "type": "Website",
-        "image": "/project_images/weather2.png",
         "description":"Project in mobile application class\nDeveloped an Android weather app that utilized the OpenWeather API to display weather information. Design inspired by the Apple weather app.",
         "date": "January 2023",
         "primaryHref": "https://drive.google.com/file/d/1St4PNV4kq08qbGj35996Z6zBJxuZtf3A/view?usp=sharing",
@@ -34,24 +49,6 @@
             {"title": "Java", "type":"Language"},
             {"title": "Android Studio", "type":"Tool"},
             {"title": "OpenWeather", "type":"Tool"}
-        ]
-    },
-    {
-        "title":"Hypixel Discord Bot",
-        "type": "Website",
-        "image": "/project_images/hypixel2.png",
-        "description":"Developed a Discord bot for the Minecraft server Hypixel using discord.py and storing past connections in a Firebase realtime database.\nUsers could link their Hypixel account by adding their Discord to their Hypixel profile in-game and leveraging the API, the Discord bot can view those connections. Utilized async functions to wait for user response.",
-        "date": "JUNE 2021",
-        "primaryHref": "https://imgur.com/a/qZI13xY",
-        "links": [
-            {"text": "GitHub Repository", "href": "https://github.com/krishrenjen/hypixeldiscordbot"},
-            {"text": "What is a Discord bot?", "href": "https://www.guru.com/blog/how-does-a-discord-bot-work/"}
-        ],
-        "tags":[
-            {"title": "Personal"},
-            {"title": "Python", "type":"Language"},
-            {"title": "discord.py", "type":"Tool"},
-            {"title": "Firebase", "type":"Tool"}
         ]
     }
 ]

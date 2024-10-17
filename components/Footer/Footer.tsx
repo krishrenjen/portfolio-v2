@@ -31,11 +31,11 @@ export default function Footer() {
           TailwindCSS
         </a>
         <span>{", and other "}</span>
-        <a className="underline hover:text-slate-300" target="_blank" href="https://github.com/krishrenjen/portfolio/blob/main/package.json/#L11">
+        <a className="underline hover:text-slate-300" target="_blank" href="https://github.com/krishrenjen/portfolio-v2/blob/master/package.json/#L11">
           dependencies
         </a>
         <span>{" | Visit project on "}</span>
-        <a className="underline hover:text-slate-300" target="_blank" href="https://github.com/krishrenjen/portfolio">
+        <a className="underline hover:text-slate-300" target="_blank" href="https://github.com/krishrenjen/portfolio-v2">
           GitHub
         </a>
       </h1>
