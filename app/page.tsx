@@ -22,7 +22,7 @@ export default function Home() {
         {/* HERO */}
         <section className={`${styles.hero} flex w-full items-center justify-center gap-36 px-10`}>
           <div className="w-fit h-screen flex flex-col justify-center items-center gap-6 z-10">
-            <h2 className={`font-medium align-middle text-center ${TextSizes.MEDIUM}`}>Hey there! I'm</h2>
+            <h2 className={`font-medium align-middle text-center ${TextSizes.MEDIUM}`}>Hey there! I&apos;m</h2>
 
             <h1 className={`font-medium align-middle text-center ${TextSizes.FOURXLARGE}`}>Krish Renjen</h1>
             <div className="flex gap-3 flex-wrap justify-center items-center">
@@ -64,7 +64,7 @@ export default function Home() {
           <div className="flex gap-14 px-10 justify-center items-center py-10 flex-wrap">
             <div className="w-80 lg:w-96 h-fit px-7">
               <p className={TextSizes.XSMALL}>
-                Hey! I'm Krish and I am a current senior in high school and an aspiring full stack developer. I made my start making games on Roblox, and have transitioned to web and software
+                Hey! I&apos;m Krish and I am a freshman senior at Rutgers University and an aspiring full stack developer. I made my start making games on Roblox, and have transitioned to web and software
                 development.
                 <br />
                 <br />
