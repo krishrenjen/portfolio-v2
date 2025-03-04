@@ -44,6 +44,11 @@
         "title": "C++",
         "description": "General, Raylib",
         "image": "/skill_logos/cpplogo.png"
+      },
+      {
+        "title": "C",
+        "description": "General",
+        "image": "/skill_logos/clogo.png"
       }
     ],
     "frameworks": [
@@ -66,6 +71,11 @@
         "title": "Node.js",
         "description": "General Use",
         "image": "/skill_logos/nodejslogo.png"
+      },
+      {
+        "title": "React Native",
+        "description": "Crossplatform App Development",
+        "image": "/skill_logos/reactlogo.png"
       },
       {
         "title": "Android",
@@ -105,11 +115,6 @@
     ],
     "external": [
       {
-        "title": "Notion",
-        "description": "Organization",
-        "image": "/skill_logos/notionlogo.png"
-      },
-      {
         "title": "Google Drive",
         "description": "Docs, Sheets, Slides, etc.",
         "image": "/skill_logos/drivelogo.png"
@@ -120,9 +125,9 @@
         "image": "/skill_logos/officelogo.png"
       },
       {
-        "title": "Gitbook",
-        "description": "Creating Lessons",
-        "image": "/skill_logos/gitbooklogo.png"
+        "title": "Notion",
+        "description": "Organization",
+        "image": "/skill_logos/notionlogo.png"
       }
     ]
   }
